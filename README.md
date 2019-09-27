@@ -28,6 +28,9 @@ Things you may want to cover:
 * ...
 Puma and Nginx, development new line
 <<<<<<< HEAD
+<<<<<<< HEAD
 Puma and Nginx, development new line
+=======
+>>>>>>> 103be14... Texting Git commands
 =======
 >>>>>>> 103be14... Texting Git commands
