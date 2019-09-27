@@ -26,3 +26,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+Puma and Nginx, development new line
