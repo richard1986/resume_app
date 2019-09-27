@@ -7,7 +7,11 @@ Things you may want to cover:
 
 * Ruby version 2.6.3
 
+<<<<<<< HEAD
 * System dependencies psql, puma, nginx
+=======
+* System dependencies 
+>>>>>>> refs/remotes/origin/master
 
 * Configuration
 
